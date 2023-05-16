@@ -5,7 +5,8 @@ CRUD 이용하여 react-to-do-list 만들기
 2023-03~2023-04
 
 ##주요 기능
-to-do-list,add a list, profile ,calendar,sidebar
+﻿할일 조회, 할일 작성, 할일 업데이트 ,할일 삭제
+프로필 기능, calendar, sidebar
 
 ##tool 소개
 
